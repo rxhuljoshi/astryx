@@ -1,0 +1,19 @@
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Env
+.env
+
+# DB
+astryx_chroma_db/
+
+# Session cache
+.astryx_session.json
+
+# OS files
+.DS_Store
+
+# Venv
+venv/
